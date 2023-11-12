@@ -1,2 +1,2 @@
-# CMakeTemplate
-The template I use for all my C++ projects
+# Lite
+Lite is a robust and minimalistic interpreted programming language
