@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Vladyslav Kryvoruchko/CMakeTemplate/out/build/x64-debug"
+			"value" : "d:/Vladyslav Kryvoruchko/Lite/out/build/x64-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -123,11 +123,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "STRING",
-			"value" : "D:/Vladyslav Kryvoruchko/Visual Studio 2022/VC/Tools/MSVC/14.36.32532/bin/Hostx64/x64/cl.exe"
+			"value" : "cl.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -235,11 +235,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "STRING",
-			"value" : "D:/Vladyslav Kryvoruchko/Visual Studio 2022/VC/Tools/MSVC/14.36.32532/bin/Hostx64/x64/cl.exe"
+			"value" : "cl.exe"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -467,7 +467,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Vladyslav Kryvoruchko/CMakeTemplate/out/build/x64-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/Vladyslav Kryvoruchko/Lite/out/build/x64-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -527,7 +527,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Vladyslav Kryvoruchko/CMakeTemplate"
+			"value" : "D:/Vladyslav Kryvoruchko/Lite"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/Vladyslav Kryvoruchko/CMakeTemplate/out/install/x64-debug"
+			"value" : "D:/Vladyslav Kryvoruchko/Lite/out/install/x64-debug"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -723,7 +723,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "CMakeTemplate"
+			"value" : "Lite"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1075,7 +1075,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Vladyslav Kryvoruchko/CMakeTemplate/out/build/x64-debug"
+			"value" : "D:/Vladyslav Kryvoruchko/Lite/out/build/x64-debug"
 		},
 		{
 			"name" : "CMakeTemplate_IS_TOP_LEVEL",
@@ -1099,7 +1099,43 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Vladyslav Kryvoruchko/CMakeTemplate"
+			"value" : "D:/Vladyslav Kryvoruchko/Lite"
+		},
+		{
+			"name" : "Lite_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/Vladyslav Kryvoruchko/Lite/out/build/x64-debug"
+		},
+		{
+			"name" : "Lite_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Lite_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/Vladyslav Kryvoruchko/Lite"
 		}
 	],
 	"kind" : "cache",
